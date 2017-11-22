@@ -1,0 +1,9 @@
+[package]
+name = "debug-server"
+version = "0.1.0"
+authors = ["clarkenciel <clarkenciel@gmail.com>"]
+
+[dependencies]
+futures = "0.1.14"
+hyper = "0.11.1"
+url = "1.6.0"
